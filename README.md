@@ -23,7 +23,7 @@ This project analyzes e-commerce sales performance using Power BI and Excel.
 
 ## Dashboard Preview
 
-[Screenshot(82).png]
+![Screenshot(82).png]
 
 
 ## Business Insights
