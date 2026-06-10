@@ -23,7 +23,7 @@ This project analyzes e-commerce sales performance using Power BI and Excel.
 
 ## Dashboard Preview
 
-![alt text](DashboardScreenshot.png)
+![alt text]([DashboardScreenshot.png](https://github.com/RiyaHoro/powerbi-ecommerce-sales-dashboard/blob/main/DashboardScreenshot.png))
 
 
 ## Business Insights
